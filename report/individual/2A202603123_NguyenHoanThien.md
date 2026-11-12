@@ -229,4 +229,4 @@ Ca khó và lỗi đã sửa ở bonus:
 
 -Các tài liệu từ repo đã fork
 - Công cụ AI: Claude (Anthropic) hướng dẫn thao tác, chỉ ra các lỗi, giải thích guidline, quy trình nộp bài, chạy script check submission
-- Claude cũng được dùng cho các việc kỹ thuật, không dùng để sinh hay sửa điểm keypoint: dựng project và task trên CVAT qua giao diện trình duyệt (không qua `lab.py setup`), ghi `src/exports/assignment.json`, export các file zip, chụp ảnh màn hình 1–3 từ CVAT (ảnh 4 là đoạn JSON thật trích từ file xuất), điền các số liệu trong báo cáo từ file xuất và script (mục 0, 1, 2, 5, Bonus; số người nhỏ ở mục 2 là ước lượng bằng mắt từ ảnh), đổi tên repo và upload file lên GitHub.
+- Claude cũng được dùng cho các việc kỹ thuật, không dùng để sinh hay sửa điểm keypoint: dựng project và task trên CVAT qua giao diện trình duyệt (không qua `lab.py setup`), ghi `src/exports/assignment.json`, export các file zip, chụp ảnh màn hình 1–3 từ CVAT (ảnh 4 là đoạn JSON thật trích từ file xuất).
