@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603123",
+ "ten": "NguyenHoanThien",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "leejihoon2706",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000164659.jpg",
+  "000000177889.jpg",
+  "000000343057.jpg",
+  "000000463932.jpg",
+  "000000493741.jpg",
+  "000000122199.jpg",
+  "000000179201.jpg",
+  "000000311497.jpg",
+  "000000043719.jpg",
+  "000000311300.jpg",
+  "000000269462.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_3348.jpg",
+  "face_496353.jpg",
+  "face_575921.jpg",
+  "face_185015.jpg",
+  "face_415073.jpg",
+  "face_249336.jpg",
+  "face_256814.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 14,
+   "job_id": 12,
+   "task_name": "persons-NguyenHoanThien"
+  },
+  "faces": {
+   "task_id": 15,
+   "job_id": 13,
+   "task_name": "faces-NguyenHoanThien"
+  },
+  "persons-extra": {
+   "task_id": 16,
+   "job_id": 14,
+   "task_name": "persons-extra-NguyenHoanThien"
+  },
+  "faces-extra": {
+   "task_id": 17,
+   "job_id": 15,
+   "task_name": "faces-extra-NguyenHoanThien"
+  }
+ },
+ "persons_extra": [
+  "000000065350.jpg",
+  "000000196853.jpg",
+  "000000213506.jpg"
+ ],
+ "faces_extra": [
+  "face_102517.jpg",
+  "face_296417.jpg",
+  "face_379585.jpg",
+  "face_45276.jpg",
+  "face_507166.jpg"
+ ]
+}
